@@ -4,7 +4,7 @@ A program constructing a concordance for a text file.
 A text concordance is an alphabetical listing of all distinct words in a piece of text. 
 
 The words are to be stored in an array/vector of 26 binary search trees. Part of each node of the BST 
-will have a circular linked list Queue. When the concordance is output, the words should be in alphabetical order, and for 
+will have a circular linked list Queue. When the concordance is being output, the words should be in alphabetical order, and for 
 each word the line numbers will be displayed in ascending order.
 
 ##### Output desired:
